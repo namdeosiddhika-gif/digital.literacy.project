@@ -1,9 +1,0 @@
- 'Stay Safe Online' checklist
-1. Protect Your PIN: Never enter your UPI PIN to receive money or a "refund"; it is strictly for authorizing outgoing payments.
-2. Verify UPI Identities: Always double-check the verified merchant name that appears in your app after scanning a QR code to ensure it matches the intended recipient.
-3. Secure Academic Portals: Use unique, strong passwords and enable Multi-Factor Authentication (MFA) for your university email and student login portals.
-4. Avoid Remote Access Apps: Never download screen-sharing apps (like AnyDesk or TeamViewer) if instructed by someone claiming to be "technical support" or "bank staff." 	
-5. Ignore "Digital Arrest" Threats: Remember that Indian law enforcement will never contact you via WhatsApp video or "arrest" you over a call to demand money.
-6. Use Official Channels Only: Verify urgent exam or fee notifications by visiting your college’s official website rather than clicking links in SMS or emails.
-7. Limit Public Wi-Fi Use: Avoid conducting banking transactions or logging into sensitive accounts while connected to open campus or café Wi-Fi.
-8. Report Immediately: If scammed, call the National Helpline 1930 or visit cybercrime.gov.in within the "Golden Hour" to increase the chances of recovering funds
